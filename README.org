@@ -2,10 +2,12 @@
 #+author: Soutrik Bandyopadhyay and Shubhendu Bhasin
 
 This is the repository containing the Python code corresponding to the paper
-"Safe Q-learning for continuous-time linear systems".
+"Safe Q-learning for continuous-time linear systems" published in IEEE
+Conference on Decision and Control 2023. The paper can be found [[https://ieeexplore.ieee.org/abstract/document/10383846][here]]. The
+preprint of the paper is available [[https://arxiv.org/abs/2304.13573][here]].
 
 ** Recommended Citation
-Please use the following Bibtex entry:
+Please use the following Bibtex entry to cite this work:
 
 #+begin_src latex
 @inproceedings{bandyopadhyay2023safe,
@@ -20,13 +22,11 @@ Please use the following Bibtex entry:
 
 
 ** Installation
-
 #+begin_src shell
 pip install -r requirements.txt
 #+end_src
 
 ** Usage of the program
-
 #+begin_src shell
 python3 main.py
 #+end_src
