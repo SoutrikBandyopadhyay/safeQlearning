@@ -3,6 +3,7 @@
 *.log
 tmp/
 data
+finalPlot.png
 *.py[cod]
 *.egg
 build

@@ -4,7 +4,7 @@
 This is the repository containing the Python code corresponding to the paper
 "Safe Q-learning for continuous-time linear systems"
 
-* Recommended Citation
+** Recommended Citation
 Please use the following Bibtex entry:
 
 #+begin_src latex
@@ -19,10 +19,10 @@ Please use the following Bibtex entry:
 #+end_src
 
 
-* Installation
+** Installation
 
 #+begin_src shell
 pip install -r requirements.txt
 #+end_src
 
-* Usage of the program
+** Usage of the program
