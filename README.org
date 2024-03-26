@@ -1,0 +1,2 @@
+#+title: Safe Q-learning for continuous-time linear systems
+#+author: Soutrik Bandyopadhyay and Shubhendu Bhasin
