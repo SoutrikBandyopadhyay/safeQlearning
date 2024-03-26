@@ -17,3 +17,12 @@ Please use the following Bibtex entry:
   organization={IEEE}
 }
 #+end_src
+
+
+* Installation
+
+#+begin_src shell
+pip install -r requirements.txt
+#+end_src
+
+* Usage of the program
