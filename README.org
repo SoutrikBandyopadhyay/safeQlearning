@@ -2,7 +2,7 @@
 #+author: Soutrik Bandyopadhyay and Shubhendu Bhasin
 
 This is the repository containing the Python code corresponding to the paper
-"Safe Q-learning for continuous-time linear systems"
+"Safe Q-learning for continuous-time linear systems".
 
 ** Recommended Citation
 Please use the following Bibtex entry:
@@ -26,3 +26,7 @@ pip install -r requirements.txt
 #+end_src
 
 ** Usage of the program
+
+#+begin_src shell
+python3 main.py
+#+end_src
